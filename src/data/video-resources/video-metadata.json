@@ -1,0 +1,1662 @@
+{
+  "m0-how-java-works": {
+    "key": "m0-how-java-works",
+    "kind": "video",
+    "title": "JVM, JRE, and JDK - Fully Explained in 5 Minutes",
+    "channel": "Coding with John",
+    "videoId": "KctLuhwFEQ8",
+    "duration": "5:28",
+    "covers": "How source code becomes bytecode and runs on the JVM; JDK vs JRE vs JVM",
+    "verifiedOn": "2026-10-10"
+  },
+  "m0-how-java-works#2": {
+    "key": "m0-how-java-works#2",
+    "kind": "video",
+    "title": "# 03-Difference between JDK JRE JVM | BYTECODE | |JIT COMPILER |JAVA COMPILATION PROCESS | IN HINDI",
+    "channel": "PortHub Academy",
+    "videoId": "sMcyAwLQ6Gk",
+    "duration": "27:20",
+    "covers": "The compile-then-run pipeline step by step (Hindi narration — the idea transfers to Java)",
+    "verifiedOn": "2026-10-10"
+  },
+  "m0-java-landscape": {
+    "key": "m0-java-landscape",
+    "kind": "video",
+    "title": "#26 Stack And Heap in Java",
+    "channel": "Telusko",
+    "videoId": "_GK3WoFFKUE",
+    "duration": "12:37",
+    "covers": "Why Java is used, its features, and how the JVM organises memory",
+    "verifiedOn": "2026-10-10"
+  },
+  "m0-java-landscape#2": {
+    "key": "m0-java-landscape#2",
+    "kind": "video",
+    "title": "Stack vs Heap Memory - Simple Explanation",
+    "channel": "Alex Hyett",
+    "videoId": "5OJRqkYbK-4",
+    "duration": "5:28",
+    "covers": "Stack vs heap memory in the JVM",
+    "verifiedOn": "2026-10-10"
+  },
+  "m0-install-mac": {
+    "key": "m0-install-mac",
+    "kind": "video",
+    "title": "How to Install Java on Mac | Install Java JDK on macOS",
+    "channel": "ProgrammingKnowledge",
+    "videoId": "PQk9O03cukQ",
+    "duration": "16:48",
+    "covers": "Installing a JDK on macOS and checking it with java -version",
+    "verifiedOn": "2026-10-10"
+  },
+  "m0-install-mac#2": {
+    "key": "m0-install-mac#2",
+    "kind": "video",
+    "title": "IntelliJ IDEA Setup for Java Beginners | Install IDE + Run Hello World (Step-by-Step)",
+    "channel": "The Study Room Journal",
+    "videoId": "IiRYjmClQjQ",
+    "duration": "5:45",
+    "covers": "Setting up an editor/IDE and running a first project",
+    "verifiedOn": "2026-10-10"
+  },
+  "m0-first-program": {
+    "key": "m0-first-program",
+    "kind": "video",
+    "title": "Java Hello World Program | Meaning of public static void main (String args [])| System.out.println()",
+    "channel": "TechnonTechTV",
+    "videoId": "0wmVq0c55RM",
+    "duration": "8:22",
+    "covers": "Anatomy of a first Java program",
+    "verifiedOn": "2026-10-10"
+  },
+  "m0-first-program#2": {
+    "key": "m0-first-program#2",
+    "kind": "video",
+    "title": "Java - Basic Syntax",
+    "channel": "TutorialsPoint",
+    "videoId": "81piDKqPxjQ",
+    "duration": "8:50",
+    "covers": "Comments, statements and basic program structure",
+    "verifiedOn": "2026-10-10"
+  },
+  "m0-errors": {
+    "key": "m0-errors",
+    "kind": "video",
+    "title": "Syntax Errors, Runtime Errors & Logical Errors in Java (Demo)",
+    "channel": "CodeWithHarry",
+    "videoId": "gtszMcGWW10",
+    "duration": "17:51",
+    "covers": "The three kinds of errors and how to recognise them",
+    "verifiedOn": "2026-10-10"
+  },
+  "m0-errors#2": {
+    "key": "m0-errors#2",
+    "kind": "video",
+    "title": "Java Tutorial - Debug syntax errors vs runtime exceptions",
+    "channel": "LinkedIn Learning",
+    "videoId": "xMV4I1nYje8",
+    "duration": "5:34",
+    "covers": "Reading compiler messages and fixing common syntax errors",
+    "verifiedOn": "2026-10-10"
+  },
+  "m0-intro-algorithms": {
+    "key": "m0-intro-algorithms",
+    "kind": "video",
+    "title": "Flow of Program - Flowcharts & Pseudocode",
+    "channel": "Kunal Kushwaha",
+    "videoId": "lhELGQAV4gg",
+    "duration": "27:02",
+    "covers": "Algorithms, pseudocode and flowcharts",
+    "verifiedOn": "2026-10-10"
+  },
+  "m0-intro-algorithms#2": {
+    "key": "m0-intro-algorithms#2",
+    "kind": "video",
+    "title": "Data Structures & Algorithms (Episode 1) – Introduction & Why They Matter",
+    "channel": "Smart Tutorials",
+    "videoId": "tZlXYnWbt9U",
+    "duration": "4:49",
+    "covers": "Why algorithm choice matters",
+    "verifiedOn": "2026-10-10"
+  },
+  "m1-variables-types": {
+    "key": "m1-variables-types",
+    "kind": "video",
+    "title": "Java Tutorial: Variables and Data Types in Java Programming",
+    "channel": "CodeWithHarry",
+    "videoId": "X0zdAG7gfgs",
+    "duration": "24:48",
+    "covers": "Declaring variables, primitive types and constants",
+    "verifiedOn": "2026-10-10"
+  },
+  "m1-variables-types#2": {
+    "key": "m1-variables-types#2",
+    "kind": "video",
+    "title": "Data Types in Java (float,double,char, boolean) | part 2 | JAVA Placement Course",
+    "channel": "Jenny's Lectures CS IT",
+    "videoId": "aFDxghuf--w",
+    "duration": "1:05:58",
+    "covers": "Primitive types, ranges and final constants",
+    "verifiedOn": "2026-10-10"
+  },
+  "m1-conversion-casting-overflow": {
+    "key": "m1-conversion-casting-overflow",
+    "kind": "video",
+    "title": "Java Type Casting Explained | Widening & Narrowing Casting with Examples | KTU B.Tech, BCA, MCA",
+    "channel": "TECH MARIA",
+    "videoId": "wU2wySBG8zQ",
+    "duration": "14:13",
+    "covers": "Implicit widening and explicit narrowing casts",
+    "verifiedOn": "2026-10-10"
+  },
+  "m1-conversion-casting-overflow#2": {
+    "key": "m1-conversion-casting-overflow#2",
+    "kind": "video",
+    "title": "The Integer Overflow Error",
+    "channel": "Uma Abu",
+    "videoId": "B1OljvfAbSE",
+    "duration": "4:47",
+    "covers": "What happens when an int overflows",
+    "verifiedOn": "2026-10-10"
+  },
+  "m1-operators-arithmetic": {
+    "key": "m1-operators-arithmetic",
+    "kind": "video",
+    "title": "Increment and Decrement Operators in Java",
+    "channel": "Neso Academy",
+    "videoId": "BuMbVAN0_-8",
+    "duration": "5:14",
+    "covers": "Arithmetic, compound assignment and ++/-- operators",
+    "verifiedOn": "2026-10-10"
+  },
+  "m1-operators-arithmetic#2": {
+    "key": "m1-operators-arithmetic#2",
+    "kind": "video",
+    "title": "The Division Operator in Java",
+    "channel": "Neso Academy",
+    "videoId": "PJDEuQK7rE8",
+    "duration": "5:21",
+    "covers": "Integer division, modulus and operator precedence",
+    "verifiedOn": "2026-10-10"
+  },
+  "m1-operators-logical-ternary": {
+    "key": "m1-operators-logical-ternary",
+    "kind": "video",
+    "title": "Java Tutorial: Relational and Logical Operators in Java",
+    "channel": "CodeWithHarry",
+    "videoId": "Y-c8gQV2Tuw",
+    "duration": "12:25",
+    "covers": "Comparison, &&, ||, ! and the ternary operator",
+    "verifiedOn": "2026-10-10"
+  },
+  "m1-operators-logical-ternary#2": {
+    "key": "m1-operators-logical-ternary#2",
+    "kind": "video",
+    "title": "Logical Operators in Java",
+    "channel": "Neso Academy",
+    "videoId": "aGvuQanOfRQ",
+    "duration": "6:19",
+    "covers": "Short-circuit evaluation and operator precedence",
+    "verifiedOn": "2026-10-10"
+  },
+  "m1-operators-bitwise": {
+    "key": "m1-operators-bitwise",
+    "kind": "video",
+    "title": "Bitwise operators in Java | and, or, not, xor, left shift, right shift & unsigned right shift",
+    "channel": "Engineering Digest",
+    "videoId": "whb3BeqZc0M",
+    "duration": "17:40",
+    "covers": "AND, OR, XOR, NOT and shifts in Java",
+    "verifiedOn": "2026-10-10"
+  },
+  "m1-operators-bitwise#2": {
+    "key": "m1-operators-bitwise#2",
+    "kind": "video",
+    "title": "How do I Set, Clear, and Toggle a Single Bit?",
+    "channel": "Jacob Sorber",
+    "videoId": "F9742wnBWRc",
+    "duration": "9:26",
+    "covers": "Common bit tricks: set, clear, toggle and test a bit",
+    "verifiedOn": "2026-10-10"
+  },
+  "m1-output-printing": {
+    "key": "m1-output-printing",
+    "kind": "video",
+    "title": "Java System.out,System.err,append,println,print,printf,format and static import",
+    "channel": "Brainy Ghosts",
+    "videoId": "8reK6iUYgqw",
+    "duration": "23:10",
+    "covers": "print, println and printf formatting",
+    "verifiedOn": "2026-10-10"
+  },
+  "m1-output-printing#2": {
+    "key": "m1-output-printing#2",
+    "kind": "video",
+    "title": "JAVA || How to format output in java using System.out.printf(...) & String x = String.format(...);",
+    "channel": "Computer Engineering life",
+    "videoId": "0XW59qbtU4Q",
+    "duration": "11:06",
+    "covers": "Formatting numbers and strings in output",
+    "verifiedOn": "2026-10-10"
+  },
+  "m1-input-scanner": {
+    "key": "m1-input-scanner",
+    "kind": "video",
+    "title": "#83 User Input using BufferedReader and Scanner in Java",
+    "channel": "Telusko",
+    "videoId": "bwHr9G5VIls",
+    "duration": "11:49",
+    "covers": "Reading input with Scanner",
+    "verifiedOn": "2026-10-10"
+  },
+  "m1-input-scanner#2": {
+    "key": "m1-input-scanner#2",
+    "kind": "video",
+    "title": "Fast Input/Output template for Competitive Programming in JAVA ( Reduce TLE)",
+    "channel": "Tech Tips",
+    "videoId": "Wj_5rRkz00U",
+    "duration": "5:15",
+    "covers": "BufferedReader for fast input",
+    "verifiedOn": "2026-10-10"
+  },
+  "m1-if-else-switch": {
+    "key": "m1-if-else-switch",
+    "kind": "video",
+    "title": "Conditional Statements | If-else, Switch Break | Complete Java Placement Course | Lecture 3",
+    "channel": "Apna College",
+    "videoId": "I5srDu75h_M",
+    "duration": "25:08",
+    "covers": "if/else chains and switch statements",
+    "verifiedOn": "2026-10-10"
+  },
+  "m1-if-else-switch#2": {
+    "key": "m1-if-else-switch#2",
+    "kind": "video",
+    "title": "Java Switch Statement Explained 💡| break, default, fall-through | Interview Essential!",
+    "channel": "ConstantPath",
+    "videoId": "vdrvynpqWvI",
+    "duration": "16:08",
+    "covers": "switch, break and fall-through",
+    "verifiedOn": "2026-10-10"
+  },
+  "m1-loops": {
+    "key": "m1-loops",
+    "kind": "video",
+    "title": "Java For Beginners: While, Do While & For Loops (7/10)",
+    "channel": "Codecourse",
+    "videoId": "6djggrlkHY8",
+    "duration": "10:59",
+    "covers": "for, while and do-while loops",
+    "verifiedOn": "2026-10-10"
+  },
+  "m1-loops#2": {
+    "key": "m1-loops#2",
+    "kind": "video",
+    "title": "15. Break, Continue and Nested Loops in Java",
+    "channel": "Abhimanyu Kumar Vatsa",
+    "videoId": "zsTm8uYmxE8",
+    "duration": "6:59",
+    "covers": "break, continue and nested loops",
+    "verifiedOn": "2026-10-10"
+  },
+  "m1-methods": {
+    "key": "m1-methods",
+    "kind": "video",
+    "title": "Java Methods for Beginners: Arguments, Parameters, Returning Values,",
+    "channel": "Professor Hank Stalica",
+    "videoId": "xgCLwJzF9-c",
+    "duration": "19:57",
+    "covers": "Declaring and calling methods",
+    "verifiedOn": "2026-10-10"
+  },
+  "m1-methods#2": {
+    "key": "m1-methods#2",
+    "kind": "video",
+    "title": "#25 Method Overloading in Java",
+    "channel": "Telusko",
+    "videoId": "KpwBVAYbPDA",
+    "duration": "6:03",
+    "covers": "Overloading and variable scope",
+    "verifiedOn": "2026-10-10"
+  },
+  "m1-debugging-tracing": {
+    "key": "m1-debugging-tracing",
+    "kind": "video",
+    "title": "Debugging Java code in IntelliJ IDEA",
+    "channel": "IntelliJ IDEA, a JetBrains IDE",
+    "videoId": "V5iQ1FyRtBo",
+    "duration": "7:26",
+    "covers": "Using a debugger: breakpoints and stepping",
+    "verifiedOn": "2026-10-10"
+  },
+  "m1-debugging-tracing#2": {
+    "key": "m1-debugging-tracing#2",
+    "kind": "video",
+    "title": "how to run the Trace Table  | Step-by-Step Dry Run, Variable Tracking, Common Errors & Programming",
+    "channel": "Computing Knowledge",
+    "videoId": "s0Uk5PMp4ow",
+    "duration": "23:31",
+    "covers": "Hand-tracing a program with a trace table",
+    "verifiedOn": "2026-10-10"
+  },
+  "m2-arrays-1d": {
+    "key": "m2-arrays-1d",
+    "kind": "video",
+    "title": "Single-Dimensional Arrays in Java (Part 1)",
+    "channel": "Neso Academy",
+    "videoId": "kWJHzambtNo",
+    "duration": "9:15",
+    "covers": "Declaring, indexing and looping over arrays",
+    "verifiedOn": "2026-10-10"
+  },
+  "m2-arrays-1d#2": {
+    "key": "m2-arrays-1d#2",
+    "kind": "video",
+    "title": "Operations on Arrays in Data Structures: Traversal, Insertion, Deletion and Searching",
+    "channel": "CodeWithHarry",
+    "videoId": "p5TDnxAYAZY",
+    "duration": "28:45",
+    "covers": "Typical array operations: search, reverse, max",
+    "verifiedOn": "2026-10-10"
+  },
+  "m2-arrays-2d": {
+    "key": "m2-arrays-2d",
+    "kind": "video",
+    "title": "Learn Java 2D arrays in 9 minutes! ⬜",
+    "channel": "Bro Code",
+    "videoId": "Qf3Nczxm2AY",
+    "duration": "9:38",
+    "covers": "Two-dimensional arrays and nested loops",
+    "verifiedOn": "2026-10-10"
+  },
+  "m2-arrays-2d#2": {
+    "key": "m2-arrays-2d#2",
+    "kind": "video",
+    "title": "2D Arrays | Java Complete Placement Course | Lecture 11",
+    "channel": "Apna College",
+    "videoId": "18Zt5I4S45o",
+    "duration": "19:53",
+    "covers": "Traversing a matrix by rows, columns and diagonals",
+    "verifiedOn": "2026-10-10"
+  },
+  "m2-strings": {
+    "key": "m2-strings",
+    "kind": "video",
+    "title": "Useful string methods in Java! 🧵",
+    "channel": "Bro Code",
+    "videoId": "Ntl3DxhyrQQ",
+    "duration": "8:36",
+    "covers": "String methods, immutability and StringBuilder",
+    "verifiedOn": "2026-10-10"
+  },
+  "m2-strings#2": {
+    "key": "m2-strings#2",
+    "kind": "video",
+    "title": "#35 Mutable vs Immutable String in Java",
+    "channel": "Telusko",
+    "videoId": "JjIewPuyexA",
+    "duration": "6:23",
+    "covers": "String immutability and equals vs ==",
+    "verifiedOn": "2026-10-10"
+  },
+  "m2-number-systems-binary": {
+    "key": "m2-number-systems-binary",
+    "kind": "video",
+    "title": "Number Systems Introduction - Decimal, Binary, Octal & Hexadecimal",
+    "channel": "The Organic Chemistry Tutor",
+    "videoId": "FFDMzbrEXaE",
+    "duration": "10:57",
+    "covers": "Converting between binary, decimal and hexadecimal",
+    "verifiedOn": "2026-10-10"
+  },
+  "m2-number-systems-binary#2": {
+    "key": "m2-number-systems-binary#2",
+    "kind": "video",
+    "title": "Twos complement: Negative numbers in binary",
+    "channel": "Ben Eater",
+    "videoId": "4qH4unVtJkE",
+    "duration": "13:49",
+    "covers": "How negative integers are stored",
+    "verifiedOn": "2026-10-10"
+  },
+  "m2-math-gcd-lcm-primes-mod": {
+    "key": "m2-math-gcd-lcm-primes-mod",
+    "kind": "video",
+    "title": "Prime Factorization to find GCD and LCM of two numbers! (So easy!)",
+    "channel": "Quoc Dat Phung",
+    "videoId": "ivt1RZyl18U",
+    "duration": "5:21",
+    "covers": "Divisibility, GCD/LCM, primes and modulus",
+    "verifiedOn": "2026-10-10"
+  },
+  "m2-math-gcd-lcm-primes-mod#2": {
+    "key": "m2-math-gcd-lcm-primes-mod#2",
+    "kind": "video",
+    "title": "L3. Check if a Number if Prime or not | Maths Playlist",
+    "channel": "take U forward",
+    "videoId": "MJcckSfoYdI",
+    "duration": "7:10",
+    "covers": "Checking primes in O(√n)",
+    "verifiedOn": "2026-10-10"
+  },
+  "m2-recursion": {
+    "key": "m2-recursion",
+    "kind": "video",
+    "title": "Recursion in Java Full Tutorial - How to Create Recursive Methods",
+    "channel": "Coding with John",
+    "videoId": "k-7jJP7QFEM",
+    "duration": "11:11",
+    "covers": "Base case, recursive case and the call stack",
+    "verifiedOn": "2026-10-10"
+  },
+  "m2-recursion#2": {
+    "key": "m2-recursion#2",
+    "kind": "video",
+    "title": "Fibonacci Sequence - Anatomy of recursion and space complexity analysis",
+    "channel": "mycodeschool",
+    "videoId": "dxyYP3BSdcQ",
+    "duration": "9:39",
+    "covers": "Watching the call stack during recursion",
+    "verifiedOn": "2026-10-10"
+  },
+  "m2-references-memory": {
+    "key": "m2-references-memory",
+    "kind": "video",
+    "title": "Java is ALWAYS Pass By Value. Here's Why",
+    "channel": "Coding with John",
+    "videoId": "-5NC5_sI-vQ",
+    "duration": "5:22",
+    "covers": "Pass-by-value, references and objects",
+    "verifiedOn": "2026-10-10"
+  },
+  "m2-references-memory#2": {
+    "key": "m2-references-memory#2",
+    "kind": "video",
+    "title": "Null Pointer Exceptions In Java - What EXACTLY They Are and How to Fix Them",
+    "channel": "Coding with John",
+    "videoId": "lm72_HCd17s",
+    "duration": "14:20",
+    "covers": "References, null and NullPointerException",
+    "verifiedOn": "2026-10-10"
+  },
+  "m2-boundaries-validation": {
+    "key": "m2-boundaries-validation",
+    "kind": "video",
+    "title": "Error in Arrays:Array index out of bounds exception in java with example",
+    "channel": "Bhargava Teja Maddula",
+    "videoId": "uibcbCUKznE",
+    "duration": "2:57",
+    "covers": "Off-by-one and index bounds errors",
+    "verifiedOn": "2026-10-10"
+  },
+  "m2-boundaries-validation#2": {
+    "key": "m2-boundaries-validation#2",
+    "kind": "video",
+    "title": "Boundary Value Testing | Black 📦 Testing | Software Engineering with Real Life examples",
+    "channel": "Gate Smashers",
+    "videoId": "l239yuyq9xQ",
+    "duration": "6:13",
+    "covers": "Thinking about edge cases and input validation",
+    "verifiedOn": "2026-10-10"
+  },
+  "m3-classes-objects": {
+    "key": "m3-classes-objects",
+    "kind": "video",
+    "title": "This Keyword in Java Full Tutorial - How to Use \"this\"",
+    "channel": "Coding with John",
+    "videoId": "ETLHbHenW44",
+    "duration": "7:39",
+    "covers": "Classes, objects, constructors and this",
+    "verifiedOn": "2026-10-10"
+  },
+  "m3-classes-objects#2": {
+    "key": "m3-classes-objects#2",
+    "kind": "video",
+    "title": "Java OOPs in One Shot | Object Oriented Programming | Java Language | Placement Course",
+    "channel": "Apna College",
+    "videoId": "bSrm9RXwBaI",
+    "duration": "1:06:27",
+    "covers": "Object-oriented basics",
+    "verifiedOn": "2026-10-10"
+  },
+  "m3-encapsulation-access": {
+    "key": "m3-encapsulation-access",
+    "kind": "video",
+    "title": "Java Tutorial: Access modifiers, getters & setters in Java",
+    "channel": "CodeWithHarry",
+    "videoId": "25zw-ljLLw0",
+    "duration": "12:56",
+    "covers": "Private fields, getters/setters and access modifiers",
+    "verifiedOn": "2026-10-10"
+  },
+  "m3-encapsulation-access#2": {
+    "key": "m3-encapsulation-access#2",
+    "kind": "video",
+    "title": "Access Specifiers in Java | Public Private Protected Default | Explained with Examples | JAVA Course",
+    "channel": "Jenny's Lectures CS IT",
+    "videoId": "zkNMYFCnqkU",
+    "duration": "38:36",
+    "covers": "The four access levels",
+    "verifiedOn": "2026-10-10"
+  },
+  "m3-inheritance-polymorphism": {
+    "key": "m3-inheritance-polymorphism",
+    "kind": "video",
+    "title": "#6.4 Java Tutorial | Method Overriding | Super Keyword",
+    "channel": "Telusko",
+    "videoId": "neOvVLpy918",
+    "duration": "4:59",
+    "covers": "Inheritance, overriding and polymorphism",
+    "verifiedOn": "2026-10-10"
+  },
+  "m3-inheritance-polymorphism#2": {
+    "key": "m3-inheritance-polymorphism#2",
+    "kind": "video",
+    "title": "#56 Dynamic Method Dispatch in Java",
+    "channel": "Telusko",
+    "videoId": "8C_YRYXCuwc",
+    "duration": "8:04",
+    "covers": "Dynamic dispatch and upcasting",
+    "verifiedOn": "2026-10-10"
+  },
+  "m3-abstraction-interfaces": {
+    "key": "m3-abstraction-interfaces",
+    "kind": "video",
+    "title": "Java Tutorial: Abstract Classes Vs Interfaces",
+    "channel": "CodeWithHarry",
+    "videoId": "qZEFslUVfx0",
+    "duration": "14:50",
+    "covers": "Abstract classes and interfaces compared",
+    "verifiedOn": "2026-10-10"
+  },
+  "m3-abstraction-interfaces#2": {
+    "key": "m3-abstraction-interfaces#2",
+    "kind": "video",
+    "title": "8.22 Interface in Java 8 Default , Static Methods | New features",
+    "channel": "Telusko",
+    "videoId": "4e_RsZWdiSc",
+    "duration": "18:20",
+    "covers": "Interfaces in modern Java",
+    "verifiedOn": "2026-10-10"
+  },
+  "m3-static-final-init": {
+    "key": "m3-static-final-init",
+    "kind": "video",
+    "title": "#57 Final keyword in java",
+    "channel": "Telusko",
+    "videoId": "OBYeDzgsOxc",
+    "duration": "6:15",
+    "covers": "static members and final",
+    "verifiedOn": "2026-10-10"
+  },
+  "m3-static-final-init#2": {
+    "key": "m3-static-final-init#2",
+    "kind": "video",
+    "title": "#39 Static Block in java",
+    "channel": "Telusko",
+    "videoId": "_7q4kMfJPDw",
+    "duration": "7:18",
+    "covers": "Initialisation order",
+    "verifiedOn": "2026-10-10"
+  },
+  "m3-packages-imports": {
+    "key": "m3-packages-imports",
+    "kind": "video",
+    "title": "Java Packages and Import Statements - Java programming",
+    "channel": "Will Tollefson",
+    "videoId": "TggAErS2UtA",
+    "duration": "10:43",
+    "covers": "Packages and imports",
+    "verifiedOn": "2026-10-10"
+  },
+  "m3-packages-imports#2": {
+    "key": "m3-packages-imports#2",
+    "kind": "video",
+    "title": "#53 Packages in Java",
+    "channel": "Telusko",
+    "videoId": "Bua6LQO2vQ8",
+    "duration": "12:20",
+    "covers": "Compiling and running code in packages",
+    "verifiedOn": "2026-10-10"
+  },
+  "m3-exceptions": {
+    "key": "m3-exceptions",
+    "kind": "video",
+    "title": "Java Exception Handling in One Shot | try-catch, finally & throw vs throws",
+    "channel": "The Curious Coder",
+    "videoId": "uSLSswpvlEU",
+    "duration": "35:54",
+    "covers": "try/catch/finally, throw and throws",
+    "verifiedOn": "2026-10-10"
+  },
+  "m3-exceptions#2": {
+    "key": "m3-exceptions#2",
+    "kind": "video",
+    "title": "Checked vs. Unchecked Exceptions in Java Tutorial - What's The Difference?",
+    "channel": "Coding with John",
+    "videoId": "bCPClyGsVhc",
+    "duration": "10:14",
+    "covers": "Checked and unchecked exceptions; custom exceptions",
+    "verifiedOn": "2026-10-10"
+  },
+  "m3-collections-lists": {
+    "key": "m3-collections-lists",
+    "kind": "video",
+    "title": "LinkedList vs ArrayList in Java Tutorial - Which Should You Use?",
+    "channel": "Coding with John",
+    "videoId": "5dscMs2hnDI",
+    "duration": "11:43",
+    "covers": "Generics, ArrayList and LinkedList",
+    "verifiedOn": "2026-10-10"
+  },
+  "m3-collections-lists#2": {
+    "key": "m3-collections-lists#2",
+    "kind": "video",
+    "title": "14.5 LinkedList vs ArrayList in Java",
+    "channel": "Telusko",
+    "videoId": "QWMyhFUtFHo",
+    "duration": "9:16",
+    "covers": "When to use ArrayList vs LinkedList",
+    "verifiedOn": "2026-10-10"
+  },
+  "m3-collections-sets-maps": {
+    "key": "m3-collections-sets-maps",
+    "kind": "video",
+    "title": "Map and HashMap in Java - Full Tutorial",
+    "channel": "Coding with John",
+    "videoId": "H62Jfv1DJlU",
+    "duration": "10:10",
+    "covers": "HashSet, HashMap and sorted variants",
+    "verifiedOn": "2026-10-10"
+  },
+  "m3-collections-sets-maps#2": {
+    "key": "m3-collections-sets-maps#2",
+    "kind": "video",
+    "title": "Hashmap in Java | Internal Working of Hashmap in Java | Hashmap Implementation | DSA-One Course #30",
+    "channel": "Anuj Kumar Sharma",
+    "videoId": "wZLn2BN1TvY",
+    "duration": "16:39",
+    "covers": "How HashMap works internally",
+    "verifiedOn": "2026-10-10"
+  },
+  "m3-collections-queues-deques": {
+    "key": "m3-collections-queues-deques",
+    "kind": "video",
+    "title": "#13 Queue Implementation using Java Part 1 | EnQueue",
+    "channel": "Telusko",
+    "videoId": "PvDoT79oHTs",
+    "duration": "9:38",
+    "covers": "Queue, Deque, Stack and PriorityQueue",
+    "verifiedOn": "2026-10-10"
+  },
+  "m3-collections-queues-deques#2": {
+    "key": "m3-collections-queues-deques#2",
+    "kind": "video",
+    "title": "Learn Priority Queue data structures in 5 minutes 🥇",
+    "channel": "Bro Code",
+    "videoId": "7z_HXFZqXqc",
+    "duration": "5:01",
+    "covers": "PriorityQueue as a min-heap with a comparator",
+    "verifiedOn": "2026-10-10"
+  },
+  "m3-sorting-comparators": {
+    "key": "m3-sorting-comparators",
+    "kind": "video",
+    "title": "#95 Comparator vs Comparable in Java",
+    "channel": "Telusko",
+    "videoId": "ZA2oNhtNk3w",
+    "duration": "15:43",
+    "covers": "Sorting objects with Comparable and Comparator",
+    "verifiedOn": "2026-10-10"
+  },
+  "m3-sorting-comparators#2": {
+    "key": "m3-sorting-comparators#2",
+    "kind": "video",
+    "title": "Java Custom Lambda Expression In Arrays.sort and Collections.sort?",
+    "channel": "Pepcoding",
+    "videoId": "QKnqs7C_pKQ",
+    "duration": "34:46",
+    "covers": "Sorting with lambdas and comparators",
+    "verifiedOn": "2026-10-10"
+  },
+  "m3-equals-hashcode-immutability": {
+    "key": "m3-equals-hashcode-immutability",
+    "kind": "video",
+    "title": "02. Equals and HashCode Contract & Different Variations",
+    "channel": "Ankit Wasankar",
+    "videoId": "CpVALR9HeTE",
+    "duration": "11:19",
+    "covers": "The equals/hashCode contract",
+    "verifiedOn": "2026-10-10"
+  },
+  "m3-equals-hashcode-immutability#2": {
+    "key": "m3-equals-hashcode-immutability#2",
+    "kind": "video",
+    "title": "Immutable Classes and Objects in Java",
+    "channel": "Neso Academy",
+    "videoId": "qbNMAJvv7qI",
+    "duration": "5:06",
+    "covers": "Designing immutable classes",
+    "verifiedOn": "2026-10-10"
+  },
+  "m4-ds-overview": {
+    "key": "m4-ds-overview",
+    "kind": "video",
+    "title": "Data Structures Made Easy:Animated Explanations of Arrays,Linked Lists,Stacks,Queues,Heaps, HashMaps",
+    "channel": "Coding Society",
+    "videoId": "cwQftA9vOvI",
+    "duration": "4:35",
+    "covers": "Overview of the fundamental data structures",
+    "verifiedOn": "2026-10-10"
+  },
+  "m4-ds-overview#2": {
+    "key": "m4-ds-overview#2",
+    "kind": "video",
+    "title": "#5 Linked List Implementation in Java Part 1 | Data Structures",
+    "channel": "Telusko",
+    "videoId": "SMIq13-FZSE",
+    "duration": "23:05",
+    "covers": "Building a linked list",
+    "verifiedOn": "2026-10-10"
+  },
+  "m4-trees-graphs-heaps": {
+    "key": "m4-trees-graphs-heaps",
+    "kind": "video",
+    "title": "Lec-53: Binary Search Tree in Data Structure | Insertion and Traversal in BST",
+    "channel": "Gate Smashers",
+    "videoId": "sXABdGalFNg",
+    "duration": "11:02",
+    "covers": "Trees, BSTs and traversals",
+    "verifiedOn": "2026-10-10"
+  },
+  "m4-trees-graphs-heaps#2": {
+    "key": "m4-trees-graphs-heaps#2",
+    "kind": "video",
+    "title": "Graphs: Edge List, Adjacency Matrix, Adjacency List, DFS, BFS - DSA Course in Python Lecture 11",
+    "channel": "Greg Hogg",
+    "videoId": "4jyESQDrpls",
+    "duration": "32:11",
+    "covers": "Graphs, BFS and DFS (Python — the idea transfers to Java)",
+    "verifiedOn": "2026-10-10"
+  },
+  "m4-searching": {
+    "key": "m4-searching",
+    "kind": "video",
+    "title": "Binary Search in Java - Full Simple Coding Tutorial",
+    "channel": "Coding with John",
+    "videoId": "NFhOrxtXXcM",
+    "duration": "17:48",
+    "covers": "Binary search step by step",
+    "verifiedOn": "2026-10-10"
+  },
+  "m4-searching#2": {
+    "key": "m4-searching#2",
+    "kind": "video",
+    "title": "Time Complexity of Linear Search and Binary Search || Lesson 33 || Algorithms || Learning Monkey ||",
+    "channel": "Wisdomers - Computer Science and Engineering ",
+    "videoId": "AUtyHzRm1-M",
+    "duration": "7:53",
+    "covers": "Linear vs binary search",
+    "verifiedOn": "2026-10-10"
+  },
+  "m4-sorting-elementary": {
+    "key": "m4-sorting-elementary",
+    "kind": "video",
+    "title": "Sorting Algorithms | Bubble Sort, Selection Sort & Insertion Sort | DSA Series by Shradha Ma'am",
+    "channel": "Apna College",
+    "videoId": "1jCFUv-Xlqo",
+    "duration": "34:33",
+    "covers": "Comparing the three elementary sorts",
+    "verifiedOn": "2026-10-10"
+  },
+  "m4-sorting-elementary#2": {
+    "key": "m4-sorting-elementary#2",
+    "kind": "video",
+    "title": "What are Adaptive/ In-Place/ Stable Algorithms? | All Sorting algo Explained | Algorithm | Gate CSE",
+    "channel": "GATE for Geeks",
+    "videoId": "vfeTGo8Wndg",
+    "duration": "8:10",
+    "covers": "Stability and in-place sorting",
+    "verifiedOn": "2026-10-10"
+  },
+  "m4-merge-sort": {
+    "key": "m4-merge-sort",
+    "kind": "video",
+    "title": "2.7.2.  Merge Sort Algorithm",
+    "channel": "Abdul Bari",
+    "videoId": "mB5HXBb_HY8",
+    "duration": "20:23",
+    "covers": "How merge sort splits and merges",
+    "verifiedOn": "2026-10-10"
+  },
+  "m4-merge-sort#2": {
+    "key": "m4-merge-sort#2",
+    "kind": "video",
+    "title": "Learn Merge Sort in 13 minutes 🔪",
+    "channel": "Bro Code",
+    "videoId": "3j0SWDX4AtU",
+    "duration": "13:45",
+    "covers": "Merge sort implementation and O(n log n)",
+    "verifiedOn": "2026-10-10"
+  },
+  "m4-iteration-vs-recursion": {
+    "key": "m4-iteration-vs-recursion",
+    "kind": "video",
+    "title": "Recursion vs Iteration : Understand with Printing Fibonacci Series Example",
+    "channel": "PrepBytes",
+    "videoId": "zhk3kuicg00",
+    "duration": "12:52",
+    "covers": "When to use recursion vs loops",
+    "verifiedOn": "2026-10-10"
+  },
+  "m4-iteration-vs-recursion#2": {
+    "key": "m4-iteration-vs-recursion#2",
+    "kind": "video",
+    "title": "Fibonacci Sequence - Recursion with memoization",
+    "channel": "mycodeschool",
+    "videoId": "UxICsjrdlJA",
+    "duration": "9:12",
+    "covers": "Memoising a recursion",
+    "verifiedOn": "2026-10-10"
+  },
+  "m4-paradigms": {
+    "key": "m4-paradigms",
+    "kind": "video",
+    "title": "L-5.1: Introduction to Dynamic Programming | Greedy Vs Dynamic Programming | Algorithm(DAA)",
+    "channel": "Gate Smashers",
+    "videoId": "0BhhiQGDbEA",
+    "duration": "9:08",
+    "covers": "Overview of algorithm design paradigms",
+    "verifiedOn": "2026-10-10"
+  },
+  "m4-paradigms#2": {
+    "key": "m4-paradigms#2",
+    "kind": "video",
+    "title": "DP#2: Coin Change Problem Number of ways to get total | Dynamic Programming | Algorithms",
+    "channel": "Jenny's Lectures CS IT",
+    "videoId": "L27_JpN6Z1Q",
+    "duration": "22:32",
+    "covers": "Greedy vs dynamic programming",
+    "verifiedOn": "2026-10-10"
+  },
+  "m4-complexity-intro": {
+    "key": "m4-complexity-intro",
+    "kind": "video",
+    "title": "Big O Notation, Time Complexity | DSA",
+    "channel": "Telusko",
+    "videoId": "jUy5N-3RAjo",
+    "duration": "21:17",
+    "covers": "Big-O, Big-Ω and Big-Θ",
+    "verifiedOn": "2026-10-10"
+  },
+  "m4-complexity-intro#2": {
+    "key": "m4-complexity-intro#2",
+    "kind": "video",
+    "title": "Iterative Time Complexity Analysis | Examples | O(1) - O(n) - O(logn) - O(√n) - O(m+n) - O(n^2)",
+    "channel": "Badhon Nandi",
+    "videoId": "j75_PuQHTr4",
+    "duration": "13:13",
+    "covers": "Common complexity classes",
+    "verifiedOn": "2026-10-10"
+  },
+  "m4-complexity-loops": {
+    "key": "m4-complexity-loops",
+    "kind": "video",
+    "title": "Time Complexity of Nested Loops (Independent Loops)",
+    "channel": "Neso Academy",
+    "videoId": "kKkGBvgQf0A",
+    "duration": "15:44",
+    "covers": "Counting loop iterations",
+    "verifiedOn": "2026-10-10"
+  },
+  "m4-complexity-loops#2": {
+    "key": "m4-complexity-loops#2",
+    "kind": "video",
+    "title": "Time Complexity of Nested Loops (Dependent Loops)",
+    "channel": "Neso Academy",
+    "videoId": "2R8_ABfiQcc",
+    "duration": "13:14",
+    "covers": "Logarithmic loops and harmonic sums",
+    "verifiedOn": "2026-10-10"
+  },
+  "m4-complexity-recursion": {
+    "key": "m4-complexity-recursion",
+    "kind": "video",
+    "title": "L-2.9: Recurrence Relation [T(n)= 2T(n/2) +cn] | Recursive Tree method | Algorithm",
+    "channel": "Gate Smashers",
+    "videoId": "bJg_sv7PV-g",
+    "duration": "7:14",
+    "covers": "Solving recurrences",
+    "verifiedOn": "2026-10-10"
+  },
+  "m4-complexity-recursion#2": {
+    "key": "m4-complexity-recursion#2",
+    "kind": "video",
+    "title": "L-2.6: Recurrence Relation [ T(n)= 8T(n/2) + n^2 ] | Master Theorem | Example#1 | Algorithm",
+    "channel": "Gate Smashers",
+    "videoId": "FBKjvXGGCJM",
+    "duration": "6:34",
+    "covers": "The master theorem",
+    "verifiedOn": "2026-10-10"
+  },
+  "m4-space-complexity": {
+    "key": "m4-space-complexity",
+    "kind": "video",
+    "title": "Space Complexity of Recursive Algorithms (The Call Stack)",
+    "channel": "Neso Academy",
+    "videoId": "2w3rCXdDGIs",
+    "duration": "13:55",
+    "covers": "Space complexity and the call stack",
+    "verifiedOn": "2026-10-10"
+  },
+  "m4-space-complexity#2": {
+    "key": "m4-space-complexity#2",
+    "kind": "video",
+    "title": "Time and Space Complexity - Strivers A2Z DSA Course",
+    "channel": "take U forward",
+    "videoId": "FPu9Uld7W-E",
+    "duration": "35:16",
+    "covers": "Time and space together",
+    "verifiedOn": "2026-10-10"
+  },
+  "m4-best-avg-worst": {
+    "key": "m4-best-avg-worst",
+    "kind": "video",
+    "title": "1.11 Best Worst and Average Case Analysis",
+    "channel": "Abdul Bari",
+    "videoId": "lj3E24nnPjI",
+    "duration": "18:56",
+    "covers": "Best, average and worst case",
+    "verifiedOn": "2026-10-10"
+  },
+  "m4-best-avg-worst#2": {
+    "key": "m4-best-avg-worst#2",
+    "kind": "video",
+    "title": "L-1.3: Asymptotic Notations | Big O | Big Omega | Theta Notations | Most Imp Topic Of Algorithm",
+    "channel": "Gate Smashers",
+    "videoId": "7dz8Iaf_weM",
+    "duration": "14:25",
+    "covers": "Cases versus asymptotic bounds",
+    "verifiedOn": "2026-10-10"
+  },
+  "a-euclid-gcd": {
+    "key": "a-euclid-gcd",
+    "kind": "video",
+    "title": "GCD - Euclidean Algorithm (Method 1)",
+    "channel": "Neso Academy",
+    "videoId": "yHwneN6zJmU",
+    "duration": "14:38",
+    "covers": "Why gcd(a, b) = gcd(b, a mod b)",
+    "verifiedOn": "2026-10-10"
+  },
+  "a-euclid-gcd#2": {
+    "key": "a-euclid-gcd#2",
+    "kind": "video",
+    "title": "Euclidean Algorithm (GCD). Java",
+    "channel": "Aleksandr Azimut",
+    "videoId": "ijrmAEDkDv4",
+    "duration": "8:08",
+    "covers": "Writing Euclid's algorithm in Java",
+    "verifiedOn": "2026-10-10"
+  },
+  "a-euler-phi": {
+    "key": "a-euler-phi",
+    "kind": "video",
+    "title": "Euler’s Totient Function (Phi Function)",
+    "channel": "Neso Academy",
+    "videoId": "DwQ7-k9LkJ4",
+    "duration": "8:40",
+    "covers": "Definition and meaning of φ(n)",
+    "verifiedOn": "2026-10-10"
+  },
+  "a-euler-phi#2": {
+    "key": "a-euler-phi#2",
+    "kind": "video",
+    "title": "Euler’s Totient Function (Solved Examples)",
+    "channel": "Neso Academy",
+    "videoId": "osge0_lZTaY",
+    "duration": "12:53",
+    "covers": "Computing φ(n) from prime factors",
+    "verifiedOn": "2026-10-10"
+  },
+  "a-crt": {
+    "key": "a-crt",
+    "kind": "video",
+    "title": "The Chinese Remainder Theorem (Solved Example 1)",
+    "channel": "Neso Academy",
+    "videoId": "e8DtzQkjOMQ",
+    "duration": "14:22",
+    "covers": "Solving simultaneous congruences",
+    "verifiedOn": "2026-10-10"
+  },
+  "a-crt#2": {
+    "key": "a-crt#2",
+    "kind": "video",
+    "title": "The Chinese Remainder Theorem (Solved Example 2)",
+    "channel": "Neso Academy",
+    "videoId": "zd1_iY0FSEo",
+    "duration": "12:06",
+    "covers": "A worked CRT example",
+    "verifiedOn": "2026-10-10"
+  },
+  "a-combination": {
+    "key": "a-combination",
+    "kind": "video",
+    "title": "The Combination Formula and Why it Works | Combinatorics, Combinations and Permutations",
+    "channel": "Wrath of Math",
+    "videoId": "wKgiSUnbLxE",
+    "duration": "8:14",
+    "covers": "The nCr formula and its computation",
+    "verifiedOn": "2026-10-10"
+  },
+  "a-combination#2": {
+    "key": "a-combination#2",
+    "kind": "video",
+    "title": "Pascal Triangle | Finding nCr in minimal time",
+    "channel": "take U forward",
+    "videoId": "bR7mQgwQ_o8",
+    "duration": "26:45",
+    "covers": "Pascal's triangle and nCr by DP",
+    "verifiedOn": "2026-10-10"
+  },
+  "a-karatsuba": {
+    "key": "a-karatsuba",
+    "kind": "video",
+    "title": "1   3   Karatsuba Multiplication 13 min",
+    "channel": "Stanford Algorithms",
+    "videoId": "JCbZayFr9RE",
+    "duration": "12:40",
+    "covers": "Three multiplications instead of four",
+    "verifiedOn": "2026-10-10"
+  },
+  "a-karatsuba#2": {
+    "key": "a-karatsuba#2",
+    "kind": "video",
+    "title": "Understanding Karatsuba Algorithm based on Divide and Conquer Implementation",
+    "channel": "MathPhy",
+    "videoId": "exdM8rAEAiI",
+    "duration": "20:36",
+    "covers": "Why Karatsuba is O(n^1.585)",
+    "verifiedOn": "2026-10-10"
+  },
+  "a-booth": {
+    "key": "a-booth",
+    "kind": "video",
+    "title": "Booth's Algorithm for Signed Multiplication",
+    "channel": "TutorialsPoint",
+    "videoId": "QFXaddi-Ag8",
+    "duration": "14:32",
+    "covers": "Booth's signed multiplication",
+    "verifiedOn": "2026-10-10"
+  },
+  "a-booth#2": {
+    "key": "a-booth#2",
+    "kind": "video",
+    "title": "Booth's algorithm - Binary multiplication example | Computer Organization",
+    "channel": "Scholarly Things",
+    "videoId": "qVmZ-mZnYTI",
+    "duration": "5:39",
+    "covers": "A worked Booth example",
+    "verifiedOn": "2026-10-10"
+  },
+  "a-simple-sieve": {
+    "key": "a-simple-sieve",
+    "kind": "video",
+    "title": "Sieve of Eratosthenes | Journey into cryptography | Computer Science | Khan Academy",
+    "channel": "Khan Academy Labs",
+    "videoId": "klcIklsWzrY",
+    "duration": "4:12",
+    "covers": "Crossing out multiples to find primes",
+    "verifiedOn": "2026-10-10"
+  },
+  "a-simple-sieve#2": {
+    "key": "a-simple-sieve#2",
+    "kind": "video",
+    "title": "L6. Sieve of Eratosthenes | Maths Playlist",
+    "channel": "take U forward",
+    "videoId": "g5Fuxn_AvSk",
+    "duration": "18:27",
+    "covers": "Sieve implementation in Java",
+    "verifiedOn": "2026-10-10"
+  },
+  "a-segmented-sieve": {
+    "key": "a-segmented-sieve",
+    "kind": "video",
+    "title": "Segmented Sieve | Sample Video II for Essential Maths for CP | GeeksforGeeks",
+    "channel": "GeeksforGeeks",
+    "videoId": "j0M8SF6daSs",
+    "duration": "11:42",
+    "covers": "Sieving a range [L, R] with base primes",
+    "verifiedOn": "2026-10-10"
+  },
+  "a-segmented-sieve#2": {
+    "key": "a-segmented-sieve#2",
+    "kind": "video",
+    "title": "15.1 Sieve of Eratosthenes | Challenge | C++ Placement Course",
+    "channel": "Apna College",
+    "videoId": "nDPo9hsDNvU",
+    "duration": "10:47",
+    "covers": "Segmented sieve implementation (C++ — the idea transfers to Java)",
+    "verifiedOn": "2026-10-10"
+  },
+  "a-binary-palindrome": {
+    "key": "a-binary-palindrome",
+    "kind": "video",
+    "title": "C++ Challenge: Check If a Number's Binary Form Is a Palindrome",
+    "channel": "Atshk.h programing",
+    "videoId": "ndcGd731XSg",
+    "duration": "6:09",
+    "covers": "Testing a binary palindrome with bit operations (C++ — the idea transfers to Java)",
+    "verifiedOn": "2026-10-10"
+  },
+  "a-binary-palindrome#2": {
+    "key": "a-binary-palindrome#2",
+    "kind": "video",
+    "title": "Reverse Bits - Binary - Leetcode 190 - Python",
+    "channel": "NeetCode",
+    "videoId": "UcoN6UjAI64",
+    "duration": "10:13",
+    "covers": "Reversing the bits of an integer (Python — the idea transfers to Java)",
+    "verifiedOn": "2026-10-10"
+  },
+  "a-nibble-swap": {
+    "key": "a-nibble-swap",
+    "kind": "video",
+    "title": "Swap two nibbles in a byte | GFG POTD | Bit Manipulation | CPP | AlgoBazaar",
+    "channel": "AlgoBazaar",
+    "videoId": "2Dq7H2FYlg4",
+    "duration": "9:06",
+    "covers": "Swapping the two nibbles of a byte (C++ — the idea transfers to Java)",
+    "verifiedOn": "2026-10-10"
+  },
+  "a-nibble-swap#2": {
+    "key": "a-nibble-swap#2",
+    "kind": "video",
+    "title": "Bitwise Operators in C (Part 2)",
+    "channel": "Neso Academy",
+    "videoId": "8aFik6lPPaA",
+    "duration": "4:59",
+    "covers": "Masks and shifts (C — the idea transfers to Java)",
+    "verifiedOn": "2026-10-10"
+  },
+  "a-longest-ones": {
+    "key": "a-longest-ones",
+    "kind": "video",
+    "title": "Maximizing Contiguous Ones: Find the Longest Sequence in a Binary Array with a Single Flip | Medium",
+    "channel": "Tutorial Horizon",
+    "videoId": "HfwnsOAdAZ4",
+    "duration": "12:00",
+    "covers": "Longest run of 1s after one flip",
+    "verifiedOn": "2026-10-10"
+  },
+  "a-longest-ones#2": {
+    "key": "a-longest-ones#2",
+    "kind": "video",
+    "title": "L4. Max Consecutive Ones III | 2 Pointers and Sliding Window Playlist",
+    "channel": "take U forward",
+    "videoId": "3E4JBHSLpYk",
+    "duration": "29:58",
+    "covers": "The sliding-window view",
+    "verifiedOn": "2026-10-10"
+  },
+  "a-josephus": {
+    "key": "a-josephus",
+    "kind": "video",
+    "title": "The Josephus Problem - Numberphile",
+    "channel": "Numberphile",
+    "videoId": "uCsD3ZGzMgE",
+    "duration": "13:58",
+    "covers": "The Josephus problem",
+    "verifiedOn": "2026-10-10"
+  },
+  "a-josephus#2": {
+    "key": "a-josephus#2",
+    "kind": "video",
+    "title": "Josephus Problem | GeeksforGeeks",
+    "channel": "GeeksforGeeks",
+    "videoId": "fZ3p2Iw-O2I",
+    "duration": "12:13",
+    "covers": "The Josephus recurrence",
+    "verifiedOn": "2026-10-10"
+  },
+  "a-block-swap": {
+    "key": "a-block-swap",
+    "kind": "video",
+    "title": "Block swap algorithm for Array rotation || easy explanation",
+    "channel": "Code with Med",
+    "videoId": "kCKWws9aTYw",
+    "duration": "13:42",
+    "covers": "Rotating an array by block swap",
+    "verifiedOn": "2026-10-10"
+  },
+  "a-block-swap#2": {
+    "key": "a-block-swap#2",
+    "kind": "video",
+    "title": "Rotate Array - Leetcode 189 - Python",
+    "channel": "NeetCode",
+    "videoId": "BHr381Guz3Y",
+    "duration": "8:59",
+    "covers": "Reversal algorithm for rotation (Python — the idea transfers to Java)",
+    "verifiedOn": "2026-10-10"
+  },
+  "a-leaders": {
+    "key": "a-leaders",
+    "kind": "video",
+    "title": "Leaders in an Array | Brute - Optimal | Strivers A2Z DSA Course",
+    "channel": "take U forward",
+    "videoId": "cHrH9CQ8pmY",
+    "duration": "11:53",
+    "covers": "Finding leaders by scanning from the right",
+    "verifiedOn": "2026-10-10"
+  },
+  "a-leaders#2": {
+    "key": "a-leaders#2",
+    "kind": "video",
+    "title": "Leaders in an Array | Right-to-Left Scan",
+    "channel": "Beyond the Function",
+    "videoId": "eLz0-kKM58c",
+    "duration": "4:47",
+    "covers": "The right-to-left scan",
+    "verifiedOn": "2026-10-10"
+  },
+  "a-majority-element": {
+    "key": "a-majority-element",
+    "kind": "video",
+    "title": "Majority Element I | Brute-Better-Optimal | Moore's Voting Algorithm | Intuition 🔥|Brute to Optimal",
+    "channel": "take U forward",
+    "videoId": "nP_ns3uSh80",
+    "duration": "18:13",
+    "covers": "Boyer–Moore majority vote",
+    "verifiedOn": "2026-10-10"
+  },
+  "a-majority-element#2": {
+    "key": "a-majority-element#2",
+    "kind": "video",
+    "title": "Majority Element - Leetcode 169 - Python",
+    "channel": "NeetCode",
+    "videoId": "7pnhv842keE",
+    "duration": "14:39",
+    "covers": "Majority element solutions (Python — the idea transfers to Java)",
+    "verifiedOn": "2026-10-10"
+  },
+  "a-max-product-subarray": {
+    "key": "a-max-product-subarray",
+    "kind": "video",
+    "title": "Maximum Product Subarray - Best Intuitive Approach Discussed",
+    "channel": "take U forward",
+    "videoId": "hnswaLJvr6g",
+    "duration": "20:27",
+    "covers": "Tracking max and min products",
+    "verifiedOn": "2026-10-10"
+  },
+  "a-max-product-subarray#2": {
+    "key": "a-max-product-subarray#2",
+    "kind": "video",
+    "title": "Maximum Product Subarray - Dynamic Programming - Leetcode 152",
+    "channel": "NeetCode",
+    "videoId": "lXVy6YWFcRM",
+    "duration": "15:31",
+    "covers": "Kadane-style solution",
+    "verifiedOn": "2026-10-10"
+  },
+  "a-equilibrium-sum": {
+    "key": "a-equilibrium-sum",
+    "kind": "video",
+    "title": "Equilibrium Index of Array | O(n) Prefix-Sum Solution | An easy detailed solution",
+    "channel": "dsa-made-easy",
+    "videoId": "FNs-bV75DlM",
+    "duration": "12:38",
+    "covers": "Prefix sums and equilibrium",
+    "verifiedOn": "2026-10-10"
+  },
+  "a-equilibrium-sum#2": {
+    "key": "a-equilibrium-sum#2",
+    "kind": "video",
+    "title": "Prefix Sum Array and Range Sum Queries",
+    "channel": "Profound Academy",
+    "videoId": "xbYr9JOC2Lk",
+    "duration": "7:30",
+    "covers": "The prefix-sum technique",
+    "verifiedOn": "2026-10-10"
+  },
+  "a-hourglass": {
+    "key": "a-hourglass",
+    "kind": "video",
+    "title": "2D Array- DS - Hourglass |ARRAYS |HACKERRANK Solution| PYTHON | Interview |Programming for Beginners",
+    "channel": "Atharv Mudur",
+    "videoId": "c4MDAQjSHyw",
+    "duration": "6:53",
+    "covers": "Scanning a 2D array for hourglasses (Python — the idea transfers to Java)",
+    "verifiedOn": "2026-10-10"
+  },
+  "a-hourglass#2": {
+    "key": "a-hourglass#2",
+    "kind": "video",
+    "title": "C_56 2D Arrays Program 1| Program to print Matrix and calculate Sum | C Programming",
+    "channel": "Jenny's Lectures CS IT",
+    "videoId": "ga_SvTsLzuk",
+    "duration": "17:33",
+    "covers": "Window sums in a matrix (C — the idea transfers to Java)",
+    "verifiedOn": "2026-10-10"
+  },
+  "a-toggle-doors": {
+    "key": "a-toggle-doors",
+    "kind": "video",
+    "title": "100 Doors in a Row | Perfect Square Numbers Magic | Train your Brain | Puzzle",
+    "channel": "PRiyanka Singh",
+    "videoId": "pWHPUKI6UgQ",
+    "duration": "9:49",
+    "covers": "Why only perfect squares remain open",
+    "verifiedOn": "2026-10-10"
+  },
+  "a-toggle-doors#2": {
+    "key": "a-toggle-doors#2",
+    "kind": "video",
+    "title": "100 Doors Interview Puzzle || Microsoft Interview Puzzle",
+    "channel": "Simply Logical",
+    "videoId": "WqvSdOCJxaU",
+    "duration": "5:26",
+    "covers": "The 100-doors puzzle",
+    "verifiedOn": "2026-10-10"
+  },
+  "a-alice-apple-tree": {
+    "key": "a-alice-apple-tree",
+    "kind": "video",
+    "title": "Minimum Garden Perimeter To Collect Enough Apples leetcode weekly contest 252 Leetcode 1954.",
+    "channel": "CodeinDepth",
+    "videoId": "8zkULr3VDC4",
+    "duration": "9:51",
+    "covers": "Counting apples by layers; binary search on the answer",
+    "verifiedOn": "2026-10-10"
+  },
+  "a-alice-apple-tree#2": {
+    "key": "a-alice-apple-tree#2",
+    "kind": "video",
+    "title": "Binary Search | Monotonic Function | L-29",
+    "channel": "Programming Pathshala",
+    "videoId": "obL8iKW4rtQ",
+    "duration": "11:57",
+    "covers": "Binary search on the answer",
+    "verifiedOn": "2026-10-10"
+  },
+  "a-weighted-substring": {
+    "key": "a-weighted-substring",
+    "kind": "video",
+    "title": "Smallest String With A Given Numeric Value | Leetcode 1663 | Maths | Live coding session 🔥🔥",
+    "channel": "Coding Decoded",
+    "videoId": "ReKjrR37BK4",
+    "duration": "6:44",
+    "covers": "Greedy construction of the smallest string",
+    "verifiedOn": "2026-10-10"
+  },
+  "a-weighted-substring#2": {
+    "key": "a-weighted-substring#2",
+    "kind": "video",
+    "title": "Introduction to Greedy Algorithms | GeeksforGeeks",
+    "channel": "GeeksforGeeks",
+    "videoId": "HzeK7g8cD0Y",
+    "duration": "5:32",
+    "covers": "Greedy reasoning",
+    "verifiedOn": "2026-10-10"
+  },
+  "a-move-hyphen": {
+    "key": "a-move-hyphen",
+    "kind": "video",
+    "title": "Move special characters in String | String Assignment 1 | Programming Using Java",
+    "channel": "DeCode with Shreyas",
+    "videoId": "sw70FjapQxQ",
+    "duration": "3:08",
+    "covers": "Partitioning a string with two pointers",
+    "verifiedOn": "2026-10-10"
+  },
+  "a-move-hyphen#2": {
+    "key": "a-move-hyphen#2",
+    "kind": "video",
+    "title": "Lec-10: Two 2️⃣ Pointer👆 Technique | Two 2️⃣ Sum Problem in Data Structure",
+    "channel": "Gate Smashers",
+    "videoId": "B2L4mAglJZA",
+    "duration": "10:33",
+    "covers": "The two-pointer technique",
+    "verifiedOn": "2026-10-10"
+  },
+  "a-strobogrammatic": {
+    "key": "a-strobogrammatic",
+    "kind": "video",
+    "title": "STROBOGRAMMATIC NUMBER | LEETCODE # 246 | PYTHON SOLUTION",
+    "channel": "Cracking FAANG",
+    "videoId": "JmlxT1fpxps",
+    "duration": "9:50",
+    "covers": "Strobogrammatic number check (Python — the idea transfers to Java)",
+    "verifiedOn": "2026-10-10"
+  },
+  "a-strobogrammatic#2": {
+    "key": "a-strobogrammatic#2",
+    "kind": "video",
+    "title": "Valid Palindrome 🔥 Strings | Two Pointer Approach Explained | Python, C++ & Java",
+    "channel": "RisingBrain",
+    "videoId": "L84y20axpIA",
+    "duration": "14:03",
+    "covers": "Two-pointer symmetric checks (Python, C++ — the idea transfers to Java)",
+    "verifiedOn": "2026-10-10"
+  },
+  "a-lex-palindrome": {
+    "key": "a-lex-palindrome",
+    "kind": "video",
+    "title": "Lexicographically Smallest Palindrome | Leetcode 2697 | Approach + Code with explanation.",
+    "channel": "Pirai's Academy",
+    "videoId": "7amSHFdgJAA",
+    "duration": "8:28",
+    "covers": "Building the smallest palindrome from a multiset",
+    "verifiedOn": "2026-10-10"
+  },
+  "a-lex-palindrome#2": {
+    "key": "a-lex-palindrome#2",
+    "kind": "video",
+    "title": "LeetCode 266. Palindrome Permutation (Algorithm Explained)",
+    "channel": "Nick White",
+    "videoId": "Pp5hdsNdqOU",
+    "duration": "5:53",
+    "covers": "Frequency counting for palindromes",
+    "verifiedOn": "2026-10-10"
+  },
+  "a-manacher": {
+    "key": "a-manacher",
+    "kind": "video",
+    "title": "Longest Palindromic Substring Manacher's Algorithm",
+    "channel": "Tushar Roy - Coding Made Simple",
+    "videoId": "V-sEwsca1ak",
+    "duration": "16:46",
+    "covers": "Manacher in linear time",
+    "verifiedOn": "2026-10-10"
+  },
+  "a-manacher#2": {
+    "key": "a-manacher#2",
+    "kind": "video",
+    "title": "5. Longest Palindromic Substring | Part-1: Expand around centers #leetcode",
+    "channel": "CodeWonka : Get started with programming",
+    "videoId": "qJT5Enf_k70",
+    "duration": "7:55",
+    "covers": "Expand-around-center for comparison",
+    "verifiedOn": "2026-10-10"
+  },
+  "a-natural-sort": {
+    "key": "a-natural-sort",
+    "kind": "video",
+    "title": "Java Comparator Sorting in Java | Practical Tutorial with Eclipse Examples | Hands on | Red9SysTech",
+    "channel": "Red9SysTech",
+    "videoId": "AQ94fiDuGb0",
+    "duration": "3:52",
+    "covers": "Comparing strings with embedded numbers",
+    "verifiedOn": "2026-10-10"
+  },
+  "a-natural-sort#2": {
+    "key": "a-natural-sort#2",
+    "kind": "video",
+    "title": "Sort Strings in Descending Order in Java | Custom Comparator Example | Java Programming",
+    "channel": "The Corporate Villager",
+    "videoId": "m6l6vB0BZJQ",
+    "duration": "5:30",
+    "covers": "Writing a custom comparator",
+    "verifiedOn": "2026-10-10"
+  },
+  "a-maneuvering": {
+    "key": "a-maneuvering",
+    "kind": "video",
+    "title": "Unique Paths - Dynamic Programming - Leetcode 62",
+    "channel": "NeetCode",
+    "videoId": "IlEsdxuD4lY",
+    "duration": "10:48",
+    "covers": "Counting grid paths",
+    "verifiedOn": "2026-10-10"
+  },
+  "a-maneuvering#2": {
+    "key": "a-maneuvering#2",
+    "kind": "video",
+    "title": "Ways to Reach Origin | GFG Problem of the Day | Grid Paths DP & nCr Explained",
+    "channel": "Gopo workspace",
+    "videoId": "ILg1X0O74bA",
+    "duration": "10:43",
+    "covers": "The combinatorial formula",
+    "verifiedOn": "2026-10-10"
+  },
+  "a-sorted-permutations": {
+    "key": "a-sorted-permutations",
+    "kind": "video",
+    "title": "Permutations of an Array/String | Recursion & Backtracking",
+    "channel": "Apna College",
+    "videoId": "N4gJDGdhpLw",
+    "duration": "22:55",
+    "covers": "Distinct permutations with duplicates",
+    "verifiedOn": "2026-10-10"
+  },
+  "a-sorted-permutations#2": {
+    "key": "a-sorted-permutations#2",
+    "kind": "video",
+    "title": "Next Permutation - Intuition in Detail 🔥 | Brute to Optimal",
+    "channel": "take U forward",
+    "videoId": "JDOXKqF60RQ",
+    "duration": "28:15",
+    "covers": "The next-permutation algorithm",
+    "verifiedOn": "2026-10-10"
+  },
+  "a-n-queens": {
+    "key": "a-n-queens",
+    "kind": "video",
+    "title": "6.1 N Queens Problem using Backtracking",
+    "channel": "Abdul Bari",
+    "videoId": "xFv_Hl4B83A",
+    "duration": "13:41",
+    "covers": "N-Queens by backtracking",
+    "verifiedOn": "2026-10-10"
+  },
+  "a-n-queens#2": {
+    "key": "a-n-queens#2",
+    "kind": "video",
+    "title": "Visualization of N Queens (5x5 board)",
+    "channel": "G Bhat",
+    "videoId": "tlR19XzszEI",
+    "duration": "2:39",
+    "covers": "N-Queens implementation",
+    "verifiedOn": "2026-10-10"
+  },
+  "a-maze-solving": {
+    "key": "a-maze-solving",
+    "kind": "video",
+    "title": "L19. Rat in A Maze | Backtracking",
+    "channel": "take U forward",
+    "videoId": "bLGZhJlt4y0",
+    "duration": "25:10",
+    "covers": "Rat in a maze",
+    "verifiedOn": "2026-10-10"
+  },
+  "a-maze-solving#2": {
+    "key": "a-maze-solving#2",
+    "kind": "video",
+    "title": "Rat in a Maze Problem | Backtracking",
+    "channel": "Apna College",
+    "videoId": "D8Yze9CDDAw",
+    "duration": "32:45",
+    "covers": "Backtracking on a grid",
+    "verifiedOn": "2026-10-10"
+  },
+  "a-hamiltonian-cycle": {
+    "key": "a-hamiltonian-cycle",
+    "kind": "video",
+    "title": "6.4 Hamiltonian Cycle - Backtracking",
+    "channel": "Abdul Bari",
+    "videoId": "dQr4wZCiJJ4",
+    "duration": "18:35",
+    "covers": "Hamiltonian cycle by backtracking",
+    "verifiedOn": "2026-10-10"
+  },
+  "a-hamiltonian-cycle#2": {
+    "key": "a-hamiltonian-cycle#2",
+    "kind": "video",
+    "title": "Euler Graph in Graph Theory | Euler Path & Euler Circuit with examples",
+    "channel": "Gate Smashers",
+    "videoId": "FoiLXsV-bnI",
+    "duration": "6:45",
+    "covers": "Hamiltonian vs Eulerian paths",
+    "verifiedOn": "2026-10-10"
+  },
+  "a-knights-tour": {
+    "key": "a-knights-tour",
+    "kind": "video",
+    "title": "CSES Knight’s Tour | Backtracking + Warnsdorff’s Rule Explained | Full Intuition + Code in C++",
+    "channel": "Yash Poonia",
+    "videoId": "vYMTd25R3pY",
+    "duration": "16:32",
+    "covers": "Knight's tour and Warnsdorff's rule (C++, C — the idea transfers to Java)",
+    "verifiedOn": "2026-10-10"
+  },
+  "a-knights-tour#2": {
+    "key": "a-knights-tour#2",
+    "kind": "video",
+    "title": "Knight's Tour - Numberphile",
+    "channel": "Numberphile",
+    "videoId": "ab_dY3dZFHM",
+    "duration": "4:51",
+    "covers": "Knight's tour",
+    "verifiedOn": "2026-10-10"
+  },
+  "a-selection-sort": {
+    "key": "a-selection-sort",
+    "kind": "video",
+    "title": "7.5 Selection Sort in Data Structure | Selection Sort Algorithm with C Program",
+    "channel": "Jenny's Lectures CS IT",
+    "videoId": "9oWd4VJOwr0",
+    "duration": "17:49",
+    "covers": "How selection sort works",
+    "verifiedOn": "2026-10-10"
+  },
+  "a-selection-sort#2": {
+    "key": "a-selection-sort#2",
+    "kind": "video",
+    "title": "L-3.8: Selection Sort | Time Complexity(Best, Avg & Worst) Analysis | Stable or Not | Inplace or Not",
+    "channel": "Gate Smashers",
+    "videoId": "Lrd1QaKyok4",
+    "duration": "11:37",
+    "covers": "Selection sort in Java",
+    "verifiedOn": "2026-10-10"
+  },
+  "a-quick-sort": {
+    "key": "a-quick-sort",
+    "kind": "video",
+    "title": "2.8.1  QuickSort Algorithm",
+    "channel": "Abdul Bari",
+    "videoId": "7h1s2SojIRw",
+    "duration": "13:43",
+    "covers": "Partitioning and recursion",
+    "verifiedOn": "2026-10-10"
+  },
+  "a-quick-sort#2": {
+    "key": "a-quick-sort#2",
+    "kind": "video",
+    "title": "Quicksort Sort Algorithm in Java - Full Tutorial With Source",
+    "channel": "Coding with John",
+    "videoId": "h8eyY7dIiN4",
+    "duration": "24:58",
+    "covers": "Quick sort implementation and pivot choice",
+    "verifiedOn": "2026-10-10"
+  }
+}

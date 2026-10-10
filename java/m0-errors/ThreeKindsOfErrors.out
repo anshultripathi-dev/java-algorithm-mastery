@@ -1,0 +1,4 @@
+runtime error caught: / by zero
+runtime error caught: Index 3 out of bounds for length 3
+average of 10 and 20, buggy  : 20.0
+average of 10 and 20, correct: 15.0

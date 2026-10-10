@@ -1,0 +1,44 @@
+{
+  "name": "java-algorithm-mastery",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Java Foundations to Algorithm Mastery — an offline-first interactive Java learning platform",
+  "type": "module",
+  "scripts": {
+    "predev": "node scripts/gen-java-index.mjs",
+    "dev": "vite",
+    "prebuild": "node scripts/gen-java-index.mjs",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "start": "npm run build && node scripts/server.mjs",
+    "test": "vitest run",
+    "test:java": "node scripts/gen-java-index.mjs && tsx scripts/verify-java.ts",
+    "verify:quiz": "tsx scripts/verify-quiz.ts",
+    "verify:snippets": "tsx scripts/verify-snippets.ts",
+    "verify:videos": "node scripts/verify-videos.mjs",
+    "pdf": "node scripts/gen-java-index.mjs && tsx scripts/build-pdf.ts",
+    "audit": "tsx scripts/audit-coverage.ts"
+  },
+  "dependencies": {
+    "lucide-react": "^1.54.0",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "react-router-dom": "^7.18.4"
+  },
+  "devDependencies": {
+    "@fontsource/inter": "^5.3.0",
+    "@fontsource/jetbrains-mono": "^5.3.0",
+    "@tailwindcss/vite": "^4.3.3",
+    "@types/node": "^26.6.5",
+    "@types/pdfkit": "^0.17.6",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@vitejs/plugin-react": "^6.1.2",
+    "pdfkit": "^0.20.2",
+    "tailwindcss": "^4.3.3",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.4",
+    "vitest": "^5.0.3"
+  }
+}

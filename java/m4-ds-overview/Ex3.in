@@ -1,0 +1,7 @@
+2 6
+enq 1
+enq 2
+enq 3
+deq
+enq 3
+deq

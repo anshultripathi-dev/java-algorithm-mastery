@@ -1,0 +1,105 @@
+@import 'tailwindcss';
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --font-sans: 'Inter', ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --font-mono: 'JetBrains Mono', ui-monospace, 'SF Mono', Menlo, Consolas, monospace;
+  --color-brand-50: #eef2ff;
+  --color-brand-100: #e0e7ff;
+  --color-brand-500: #6366f1;
+  --color-brand-600: #4f46e5;
+  --color-brand-700: #4338ca;
+}
+
+@layer base {
+  /* grid items may shrink below their content width, otherwise one wide child stretches the whole
+     implicit column and the page scrolls sideways on phones */
+  .grid > * {
+    min-width: 0;
+  }
+  /* long unbroken strings (video titles, identifiers) wrap instead of widening the page */
+  main {
+    overflow-wrap: anywhere;
+  }
+  html {
+    -webkit-text-size-adjust: 100%;
+    scroll-behavior: smooth;
+  }
+  body {
+    @apply bg-slate-50 text-slate-800 antialiased dark:bg-slate-950 dark:text-slate-200;
+    font-family: var(--font-sans);
+    font-feature-settings: 'cv11', 'ss01';
+  }
+  ::selection {
+    @apply bg-brand-500/30;
+  }
+  :focus-visible {
+    @apply outline-2 outline-offset-2 outline-brand-500;
+  }
+  button {
+    cursor: pointer;
+  }
+  details > summary {
+    cursor: pointer;
+  }
+}
+
+@layer components {
+  .card {
+    @apply rounded-xl border border-slate-200 bg-white shadow-sm dark:border-slate-800 dark:bg-slate-900;
+  }
+  .btn {
+    @apply inline-flex items-center justify-center gap-2 rounded-lg px-3.5 py-2 text-sm font-medium transition-colors disabled:cursor-not-allowed disabled:opacity-50;
+  }
+  .btn-primary {
+    @apply inline-flex items-center justify-center gap-2 rounded-lg px-3.5 py-2 text-sm font-medium transition-colors disabled:cursor-not-allowed disabled:opacity-50 bg-brand-600 text-white hover:bg-brand-700;
+  }
+  .btn-ghost {
+    @apply inline-flex items-center justify-center gap-2 rounded-lg px-3.5 py-2 text-sm font-medium transition-colors disabled:cursor-not-allowed disabled:opacity-50 border border-slate-300 bg-white text-slate-700 hover:bg-slate-100 dark:border-slate-700 dark:bg-slate-900 dark:text-slate-200 dark:hover:bg-slate-800;
+  }
+  .btn-sm {
+    @apply px-2.5 py-1.5 text-xs;
+  }
+  .input {
+    @apply w-full rounded-lg border border-slate-300 bg-white px-3 py-2 text-sm text-slate-900 placeholder:text-slate-400 dark:border-slate-700 dark:bg-slate-900 dark:text-slate-100;
+  }
+  .chip {
+    @apply inline-flex items-center gap-1 rounded-full px-2 py-0.5 text-xs font-medium;
+  }
+  .kbd {
+    @apply rounded border border-slate-300 bg-slate-100 px-1.5 py-0.5 font-mono text-[11px] dark:border-slate-700 dark:bg-slate-800;
+  }
+  .lesson-prose p {
+    @apply my-3 leading-7;
+  }
+  .lesson-prose code.inline {
+    @apply rounded bg-slate-100 px-1.5 py-0.5 font-mono text-[0.88em] text-brand-700 dark:bg-slate-800 dark:text-indigo-300;
+  }
+  .lesson-prose a {
+    @apply font-medium text-brand-600 underline decoration-brand-500/40 underline-offset-2 hover:decoration-brand-500 dark:text-indigo-400;
+  }
+}
+
+/* syntax colours — GitHub-ish, readable in both themes */
+.tok-comment { color: #6b7280; font-style: italic; }
+.tok-string { color: #0a7d3c; }
+.tok-number { color: #b45309; }
+.tok-keyword { color: #7c3aed; font-weight: 600; }
+.tok-type { color: #0369a1; }
+.tok-annotation { color: #be185d; }
+.tok-method { color: #1d4ed8; }
+.dark .tok-comment { color: #8b95a5; }
+.dark .tok-string { color: #86efac; }
+.dark .tok-number { color: #fbbf24; }
+.dark .tok-keyword { color: #c4b5fd; }
+.dark .tok-type { color: #7dd3fc; }
+.dark .tok-annotation { color: #f9a8d4; }
+.dark .tok-method { color: #93c5fd; }
+
+.code-line-hl { background: rgba(99, 102, 241, 0.14); box-shadow: inset 3px 0 0 #6366f1; }
+.code-line-flash { animation: flash 1.2s ease-out; }
+@keyframes flash { from { background: rgba(250, 204, 21, 0.45); } to { background: transparent; } }
+
+@media (prefers-reduced-motion: reduce) {
+  * { animation: none !important; transition: none !important; scroll-behavior: auto !important; }
+}
