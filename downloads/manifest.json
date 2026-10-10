@@ -1,0 +1,69 @@
+{
+  "generatedAt": "2026-10-10T11:09:17.566Z",
+  "files": [
+    {
+      "file": "downloads/java-study-guide.pdf",
+      "title": "Java Foundations to Algorithm Mastery — Complete Beginner-to-Advanced Study Guide",
+      "description": "Master guide: every lesson, dry run, walkthrough, solutions, answer keys and appendices",
+      "pages": 781,
+      "bytes": 7260666,
+      "master": true
+    },
+    {
+      "file": "downloads/01-cheat-sheets.pdf",
+      "title": "Cheat sheets",
+      "description": "Syntax, collections, complexity and algorithm cheat sheets",
+      "pages": 5,
+      "bytes": 61455,
+      "master": false
+    },
+    {
+      "file": "downloads/02-practice-workbook.pdf",
+      "title": "Practice workbook",
+      "description": "All exercises, grouped by module — without solutions",
+      "pages": 49,
+      "bytes": 357124,
+      "master": false
+    },
+    {
+      "file": "downloads/03-solutions-manual.pdf",
+      "title": "Solutions manual",
+      "description": "Reference solutions and quiz answers",
+      "pages": 157,
+      "bytes": 1170487,
+      "master": false
+    },
+    {
+      "file": "downloads/04-revision-flashcards.pdf",
+      "title": "Revision flashcards",
+      "description": "Every revision card as prompt and answer",
+      "pages": 34,
+      "bytes": 260501,
+      "master": false
+    },
+    {
+      "file": "downloads/05-archive-algorithms-handbook.pdf",
+      "title": "Archive algorithms handbook",
+      "description": "Part 5 on its own: all archive algorithms with dry runs",
+      "pages": 339,
+      "bytes": 2738936,
+      "master": false
+    },
+    {
+      "file": "downloads/06-study-plans-and-checklist.pdf",
+      "title": "Study plans and checklist",
+      "description": "7/14/21/30-day plans and a progress checklist",
+      "pages": 24,
+      "bytes": 234395,
+      "master": false
+    },
+    {
+      "file": "downloads/07-video-library.pdf",
+      "title": "Video library",
+      "description": "Video and reading links for every lesson",
+      "pages": 9,
+      "bytes": 913287,
+      "master": false
+    }
+  ]
+}
